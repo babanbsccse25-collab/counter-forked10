@@ -22,7 +22,7 @@ function App() {
         <h1>counter app {number}</h1>
         <button onClick={increment}>Increment</button>
         <button onClick={decrement}>Decrement</button>
-        <button onClick={reset}>R</button>
+        <button onClick={reset}>reset button</button>
       </div>
       
   )
